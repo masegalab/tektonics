@@ -1,0 +1,6621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7401,
+          -34.7261,
+          44.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.36,
+        "code": "c000nchd",
+        "cdi": 4.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.4 - 35km WSW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000nchd&format=geojson",
+        "sig": 465,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395198883845,
+        "felt": 36,
+        "alert": null,
+        "dmin": 0.323,
+        "mag": 5.4,
+        "gap": 122,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000nchd",
+        "ids": ",usc000nchd,",
+        "tsunami": null,
+        "place": "35km WSW of Santa Cruz, Chile",
+        "time": 1394894787750,
+        "mmi": null
+      },
+      "id": "usc000nchd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7348,
+          -32.0366,
+          42.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.79,
+        "code": "c000nb7x",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.7 - 66km NW of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000nb7x&format=geojson",
+        "sig": 341,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394802822692,
+        "felt": 4,
+        "alert": null,
+        "dmin": 1.42,
+        "mag": 4.7,
+        "gap": 137,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000nb7x",
+        "ids": ",usc000nb7x,",
+        "tsunami": null,
+        "place": "66km NW of La Ligua, Chile",
+        "time": 1394799752170,
+        "mmi": null
+      },
+      "id": "usc000nb7x"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.162,
+          -31.199,
+          117.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.49,
+        "code": "c000n79v",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 27km ENE of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000n79v&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394527252625,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000n79v",
+        "ids": ",usc000n79v,",
+        "tsunami": null,
+        "place": "27km ENE of Calingasta, Argentina",
+        "time": 1394498300000,
+        "mmi": null
+      },
+      "id": "usc000n79v"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7209,
+          -32.2533,
+          22.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.51,
+        "code": "c000n5y6",
+        "cdi": 2.2,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.1 - 51km WNW of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000n5y6&format=geojson",
+        "sig": 401,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394404816000,
+        "felt": 2,
+        "alert": null,
+        "dmin": 0.934,
+        "mag": 5.1,
+        "gap": 153,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000n5y6",
+        "ids": ",usc000n5y6,",
+        "tsunami": null,
+        "place": "51km WNW of La Ligua, Chile",
+        "time": 1394380122970,
+        "mmi": null
+      },
+      "id": "usc000n5y6"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3733,
+          -33.3278,
+          58.93
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.15,
+        "code": "c000n3w0",
+        "cdi": 6.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.3 - 31km S of Villa Alemana, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000n3w0&format=geojson",
+        "sig": 675,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394524814664,
+        "felt": 398,
+        "alert": null,
+        "dmin": 0.461,
+        "mag": 5.3,
+        "gap": 62,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000n3w0",
+        "ids": ",usc000n3w0,",
+        "tsunami": null,
+        "place": "31km S of Villa Alemana, Chile",
+        "time": 1394080626200,
+        "mmi": null
+      },
+      "id": "usc000n3w0"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5203,
+          -32.0572,
+          106.78
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.62,
+        "code": "c000nb72",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 81km S of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000nb72&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395694766000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.457,
+        "mag": 4.6,
+        "gap": 95,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000nb72",
+        "ids": ",usc000nb72,",
+        "tsunami": null,
+        "place": "81km S of Calingasta, Argentina",
+        "time": 1393949995450,
+        "mmi": null
+      },
+      "id": "usc000nb72"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7758,
+          -35.0185,
+          44.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.81,
+        "code": "b000n0ne",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.8 - 46km WNW of Molina, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000n0ne&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393986470355,
+        "felt": 2,
+        "alert": null,
+        "dmin": 0.127,
+        "mag": 4.8,
+        "gap": 94,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000n0ne",
+        "ids": ",usb000n0ne,",
+        "tsunami": null,
+        "place": "46km WNW of Molina, Chile",
+        "time": 1393932260600,
+        "mmi": null
+      },
+      "id": "usb000n0ne"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0306,
+          -33.6048,
+          11.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.84,
+        "code": "b000n0nd",
+        "cdi": 3.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.9 - 37km W of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000n0nd&format=geojson",
+        "sig": 371,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393953723276,
+        "felt": 4,
+        "alert": null,
+        "dmin": 1.056,
+        "mag": 4.9,
+        "gap": 143,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000n0nd",
+        "ids": ",usb000n0nd,",
+        "tsunami": null,
+        "place": "37km W of San Antonio, Chile",
+        "time": 1393931836740,
+        "mmi": null
+      },
+      "id": "usb000n0nd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0631,
+          -33.5658,
+          9.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.3,
+        "code": "b000n0mp",
+        "cdi": 4.3,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 5.7 - 41km W of San Antonio, Chile",
+        "magType": "mwb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000n0mp&format=geojson",
+        "sig": 533,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394441231801,
+        "felt": 78,
+        "alert": "green",
+        "dmin": 1.056,
+        "mag": 5.7,
+        "gap": 70,
+        "types": ",cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000n0mp",
+        "ids": ",usb000n0mp,gcmt20140304105113,",
+        "tsunami": null,
+        "place": "41km W of San Antonio, Chile",
+        "time": 1393930273490,
+        "mmi": 5.14
+      },
+      "id": "usb000n0mp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1615,
+          -33.6196,
+          99.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.41,
+        "code": "c000nadk",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 39km E of Puente Alto, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000nadk&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395607655030,
+        "felt": 3,
+        "alert": null,
+        "dmin": 0.64,
+        "mag": 4.6,
+        "gap": 89,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000nadk",
+        "ids": ",usc000nadk,",
+        "tsunami": null,
+        "place": "39km E of Puente Alto, Chile",
+        "time": 1393859537030,
+        "mmi": null
+      },
+      "id": "usc000nadk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9255,
+          -33.1013,
+          10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.73,
+        "code": "b000mztz",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.1 - 28km WSW of Valparaiso, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000mztz&format=geojson",
+        "sig": 411,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393936181410,
+        "felt": 29,
+        "alert": null,
+        "dmin": 0.774,
+        "mag": 5.1,
+        "gap": 74,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000mztz",
+        "ids": ",usb000mztz,",
+        "tsunami": null,
+        "place": "28km WSW of Valparaiso, Chile",
+        "time": 1393816666150,
+        "mmi": null
+      },
+      "id": "usb000mztz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9789,
+          -33.1043,
+          28.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.34,
+        "code": "b000myaf",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.9 - 33km WSW of Valparaiso, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000myaf&format=geojson",
+        "sig": 369,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393634045660,
+        "felt": null,
+        "alert": null,
+        "dmin": 0.819,
+        "mag": 4.9,
+        "gap": 157,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000myaf",
+        "ids": ",usb000myaf,",
+        "tsunami": null,
+        "place": "33km WSW of Valparaiso, Chile",
+        "time": 1393605089190,
+        "mmi": null
+      },
+      "id": "usb000myaf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6483,
+          -31.2302,
+          109.99
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.72,
+        "code": "c000mz5a",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.8 - 25km NNW of Albardon, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mz5a&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394632639000,
+        "felt": 1,
+        "alert": null,
+        "dmin": 0.512,
+        "mag": 4.8,
+        "gap": 71,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mz5a",
+        "ids": ",usc000mz5a,",
+        "tsunami": null,
+        "place": "25km NNW of Albardon, Argentina",
+        "time": 1393521785700,
+        "mmi": null
+      },
+      "id": "usc000mz5a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.313,
+          -35.0854,
+          16.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.27,
+        "code": "c000n47l",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 4km NW of Molina, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000n47l&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395542587000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.512,
+        "mag": 4.4,
+        "gap": 96,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000n47l",
+        "ids": ",usc000n47l,",
+        "tsunami": null,
+        "place": "4km NW of Molina, Chile",
+        "time": 1393197796740,
+        "mmi": null
+      },
+      "id": "usc000n47l"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.277,
+          -32.978,
+          114.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.92,
+        "code": "c000ni0a",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 34km ESE of Los Andes, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ni0a&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395292316000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ni0a",
+        "ids": ",usc000ni0a,",
+        "tsunami": null,
+        "place": "34km ESE of Los Andes, Chile",
+        "time": 1392762594000,
+        "mmi": null
+      },
+      "id": "usc000ni0a"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9686,
+          -31.6132,
+          9.98
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.72,
+        "code": "c000mrq6",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 5.1 - 76km W of Illapel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mrq6&format=geojson",
+        "sig": 401,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392958017474,
+        "felt": 4,
+        "alert": null,
+        "dmin": 1.752,
+        "mag": 5.1,
+        "gap": 54,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mrq6",
+        "ids": ",usc000mrq6,",
+        "tsunami": null,
+        "place": "76km W of Illapel, Chile",
+        "time": 1392597271780,
+        "mmi": null
+      },
+      "id": "usc000mrq6"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.509,
+          -32.031,
+          118
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.83,
+        "code": "b000my3y",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 39km S of Pocito, Argentina",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000my3y&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394239480000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000my3y",
+        "ids": ",usb000my3y,",
+        "tsunami": null,
+        "place": "39km S of Pocito, Argentina",
+        "time": 1392340288000,
+        "mmi": null
+      },
+      "id": "usb000my3y"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6049,
+          -34.7557,
+          44.94
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.62,
+        "code": "c000mp11",
+        "cdi": 4.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.2 - 25km WSW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mp11&format=geojson",
+        "sig": 440,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395778979195,
+        "felt": 53,
+        "alert": null,
+        "dmin": 0.368,
+        "mag": 5.2,
+        "gap": 73,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mp11",
+        "ids": ",usc000mp11,",
+        "tsunami": null,
+        "place": "25km WSW of Santa Cruz, Chile",
+        "time": 1392212123470,
+        "mmi": null
+      },
+      "id": "usc000mp11"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.703,
+          -31.298,
+          112
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.97,
+        "code": "c000mnya",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 22km NW of Albardon, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mnya&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394975961834,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mnya",
+        "ids": ",usc000mnya,",
+        "tsunami": null,
+        "place": "22km NW of Albardon, Argentina",
+        "time": 1392201982000,
+        "mmi": null
+      },
+      "id": "usc000mnya"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.971,
+          -36.992,
+          18.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.04,
+        "code": "c000mnmm",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 136km WNW of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mnmm&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395618005000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mnmm",
+        "ids": ",usc000mnmm,",
+        "tsunami": null,
+        "place": "136km WNW of Lebu, Chile",
+        "time": 1392167458000,
+        "mmi": null
+      },
+      "id": "usc000mnmm"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.951,
+          -35.437,
+          36.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.85,
+        "code": "c000mmsg",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 25km W of Talca, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mmsg&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395281089000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mmsg",
+        "ids": ",usc000mmsg,",
+        "tsunami": null,
+        "place": "25km W of Talca, Chile",
+        "time": 1392089928000,
+        "mmi": null
+      },
+      "id": "usc000mmsg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1942,
+          -38.4428,
+          38.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.21,
+        "code": "c000mlx1",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.0 - 28km N of Carahue, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mlx1&format=geojson",
+        "sig": 390,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395293921000,
+        "felt": 14,
+        "alert": null,
+        "dmin": 3.066,
+        "mag": 5,
+        "gap": 88,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mlx1",
+        "ids": ",usc000mlx1,",
+        "tsunami": null,
+        "place": "28km N of Carahue, Chile",
+        "time": 1392005624350,
+        "mmi": null
+      },
+      "id": "usc000mlx1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.029,
+          -30.129,
+          123
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.85,
+        "code": "c000mvjl",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 29km WNW of San Jose de Jachal, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mvjl&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393674164000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mvjl",
+        "ids": ",usc000mvjl,",
+        "tsunami": null,
+        "place": "29km WNW of San Jose de Jachal, Argentina",
+        "time": 1391889491000,
+        "mmi": null
+      },
+      "id": "usc000mvjl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.24,
+          -33.789,
+          23.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.31,
+        "code": "c000mgxm",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 61km WSW of San Antonio, Chile",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mgxm&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394535410000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mgxm",
+        "ids": ",usc000mgxm,",
+        "tsunami": null,
+        "place": "61km WSW of San Antonio, Chile",
+        "time": 1391514808000,
+        "mmi": null
+      },
+      "id": "usc000mgxm"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.24,
+          -33.786,
+          29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.42,
+        "code": "c000mtgj",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 61km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mtgj&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394749353000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mtgj",
+        "ids": ",usc000mtgj,",
+        "tsunami": null,
+        "place": "61km WSW of San Antonio, Chile",
+        "time": 1391477535000,
+        "mmi": null
+      },
+      "id": "usc000mtgj"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.928,
+          -32.484,
+          126
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.96,
+        "code": "c000msq0",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 73km ENE of Los Andes, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000msq0&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394831204000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000msq0",
+        "ids": ",usc000msq0,",
+        "tsunami": null,
+        "place": "73km ENE of Los Andes, Chile",
+        "time": 1391371365000,
+        "mmi": null
+      },
+      "id": "usc000msq0"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3651,
+          -37.7337,
+          73.96
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.65,
+        "code": "c000mfir",
+        "cdi": 4.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 11km W of Mulchen, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mfir&format=geojson",
+        "sig": 327,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394751793000,
+        "felt": 3,
+        "alert": null,
+        "dmin": 2.74,
+        "mag": 4.6,
+        "gap": 150,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mfir",
+        "ids": ",usc000mfir,",
+        "tsunami": null,
+        "place": "11km W of Mulchen, Chile",
+        "time": 1391303147580,
+        "mmi": null
+      },
+      "id": "usc000mfir"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.088,
+          -34.019,
+          25.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.99,
+        "code": "c000mqni",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.2 - 63km SW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mqni&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393557205000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mqni",
+        "ids": ",usc000mqni,",
+        "tsunami": null,
+        "place": "63km SW of San Antonio, Chile",
+        "time": 1391290642000,
+        "mmi": null
+      },
+      "id": "usc000mqni"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.981,
+          -33.655,
+          25.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.63,
+        "code": "c000mqlq",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 34km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mqlq&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394147725000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mqlq",
+        "ids": ",usc000mqlq,",
+        "tsunami": null,
+        "place": "34km WSW of San Antonio, Chile",
+        "time": 1391198416000,
+        "mmi": null
+      },
+      "id": "usc000mqlq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.786,
+          -32.118,
+          25.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.1,
+        "code": "c000mdi2",
+        "cdi": 3.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 64km NW of La Ligua, Chile",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mdi2&format=geojson",
+        "sig": 313,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395038057000,
+        "felt": 4,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mdi2",
+        "ids": ",usc000mdi2,",
+        "tsunami": null,
+        "place": "64km NW of La Ligua, Chile",
+        "time": 1391076134000,
+        "mmi": null
+      },
+      "id": "usc000mdi2"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.593,
+          -34.788,
+          44.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 2.2,
+        "code": "c000mnwz",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 26km SW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mnwz&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394067329000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mnwz",
+        "ids": ",usc000mnwz,",
+        "tsunami": null,
+        "place": "26km SW of Santa Cruz, Chile",
+        "time": 1390860927000,
+        "mmi": null
+      },
+      "id": "usc000mnwz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.283,
+          -33.333,
+          106.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.97,
+        "code": "c000mk77",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 31km ENE of Villa Presidente Frei, Nunoa, Santiago, Chile, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mk77&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394110679000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mk77",
+        "ids": ",usc000mk77,",
+        "tsunami": null,
+        "place": "31km ENE of Villa Presidente Frei, Nunoa, Santiago, Chile, Chile",
+        "time": 1390467553000,
+        "mmi": null
+      },
+      "id": "usc000mk77"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.214,
+          -37.75,
+          38.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.94,
+        "code": "c000mh02",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.4 - 51km WSW of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000mh02&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395446724000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000mh02",
+        "ids": ",usc000mh02,",
+        "tsunami": null,
+        "place": "51km WSW of Lebu, Chile",
+        "time": 1390160270000,
+        "mmi": null
+      },
+      "id": "usc000mh02"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1214,
+          -31.1362,
+          104.66
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.97,
+        "code": "b000m1d3",
+        "cdi": 3.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.2 - 47km NNE of San Martin, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m1d3&format=geojson",
+        "sig": 420,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1395446714000,
+        "felt": 10,
+        "alert": null,
+        "dmin": 0.477,
+        "mag": 5.2,
+        "gap": 38,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m1d3",
+        "ids": ",usb000m1d3,",
+        "tsunami": null,
+        "place": "47km NNE of San Martin, Argentina",
+        "time": 1389775088750,
+        "mmi": null
+      },
+      "id": "usb000m1d3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.952,
+          -33.642,
+          44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.14,
+        "code": "b000m7dp",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 31km W of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m7dp&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394854729000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m7dp",
+        "ids": ",usb000m7dp,",
+        "tsunami": null,
+        "place": "31km W of San Antonio, Chile",
+        "time": 1389293591000,
+        "mmi": null
+      },
+      "id": "usb000m7dp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3685,
+          -36.0869,
+          33.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.28,
+        "code": "b000m7dl",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 69km NNW of Tome, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m7dl&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394854727000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.59,
+        "mag": 4.6,
+        "gap": 151,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m7dl",
+        "ids": ",usb000m7dl,",
+        "tsunami": null,
+        "place": "69km NNW of Tome, Chile",
+        "time": 1389280150690,
+        "mmi": null
+      },
+      "id": "usb000m7dl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.812,
+          -34.784,
+          56.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.01,
+        "code": "b000m7dc",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.2 - 44km WSW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m7dc&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394854725000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m7dc",
+        "ids": ",usb000m7dc,",
+        "tsunami": null,
+        "place": "44km WSW of Santa Cruz, Chile",
+        "time": 1389258970000,
+        "mmi": null
+      },
+      "id": "usb000m7dc"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4031,
+          -32.7094,
+          52.02
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.01,
+        "code": "b000m4wa",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 19km WNW of Hacienda La Calera, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m4wa&format=geojson",
+        "sig": 313,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394151959000,
+        "felt": 5,
+        "alert": null,
+        "dmin": 0.42,
+        "mag": 4.5,
+        "gap": 113,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m4wa",
+        "ids": ",usb000m4wa,",
+        "tsunami": null,
+        "place": "19km WNW of Hacienda La Calera, Chile",
+        "time": 1388934567870,
+        "mmi": null
+      },
+      "id": "usb000m4wa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6098,
+          -31.5271,
+          67.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.16,
+        "code": "b000m8x7",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 7km W of San Juan, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000m8x7&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394151958000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.316,
+        "mag": 4,
+        "gap": 153,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000m8x7",
+        "ids": ",usb000m8x7,",
+        "tsunami": null,
+        "place": "7km W of San Juan, Argentina",
+        "time": 1388847755180,
+        "mmi": null
+      },
+      "id": "usb000m8x7"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2606,
+          -33.73,
+          31.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.42,
+        "code": "c000lx34",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 61km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lx34&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394151957000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.285,
+        "mag": 4.2,
+        "gap": 151,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lx34",
+        "ids": ",usc000lx34,",
+        "tsunami": null,
+        "place": "61km WSW of San Antonio, Chile",
+        "time": 1388815558130,
+        "mmi": null
+      },
+      "id": "usc000lx34"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.386,
+          -32.961,
+          44.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.23,
+        "code": "c000lw00",
+        "cdi": 4.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.8 - 9km N of Villa Alemana, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lw00&format=geojson",
+        "sig": 366,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1394151956000,
+        "felt": 28,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.8,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lw00",
+        "ids": ",usc000lw00,",
+        "tsunami": null,
+        "place": "9km N of Villa Alemana, Chile",
+        "time": 1388702384000,
+        "mmi": null
+      },
+      "id": "usc000lw00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0601,
+          -33.9514,
+          108.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.08,
+        "code": "c000ltqb",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 61km SE of Puente Alto, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ltqb&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393577052000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.955,
+        "mag": 4.6,
+        "gap": 85,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ltqb",
+        "ids": ",usc000ltqb,",
+        "tsunami": null,
+        "place": "61km SE of Puente Alto, Chile",
+        "time": 1388329713550,
+        "mmi": null
+      },
+      "id": "usc000ltqb"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322,
+          -33.939,
+          36.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.23,
+        "code": "c000m05z",
+        "cdi": 4.5,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 28km SSW of Melipilla, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000m05z&format=geojson",
+        "sig": 286,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393577050000,
+        "felt": 3,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000m05z",
+        "ids": ",usc000m05z,",
+        "tsunami": null,
+        "place": "28km SSW of Melipilla, Chile",
+        "time": 1388183938000,
+        "mmi": null
+      },
+      "id": "usc000m05z"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8492,
+          -32.089,
+          17.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.05,
+        "code": "c000lsuy",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.8 - 70km NW of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lsuy&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393577049000,
+        "felt": 3,
+        "alert": null,
+        "dmin": 1.13,
+        "mag": 4.8,
+        "gap": 115,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lsuy",
+        "ids": ",usc000lsuy,",
+        "tsunami": null,
+        "place": "70km NW of La Ligua, Chile",
+        "time": 1388170333170,
+        "mmi": null
+      },
+      "id": "usc000lsuy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8188,
+          -30.5631,
+          37.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.19,
+        "code": "c000lypj",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.2 - 59km W of Ovalle, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lypj&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393577048000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.963,
+        "mag": 4.2,
+        "gap": 153,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lypj",
+        "ids": ",usc000lypj,",
+        "tsunami": null,
+        "place": "59km W of Ovalle, Chile",
+        "time": 1388045555560,
+        "mmi": null
+      },
+      "id": "usc000lypj"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.673,
+          -38.046,
+          148.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.83,
+        "code": "c000ly9k",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 60km ENE of Victoria, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ly9k&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393577047000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ly9k",
+        "ids": ",usc000ly9k,",
+        "tsunami": null,
+        "place": "60km ENE of Victoria, Chile",
+        "time": 1388005843000,
+        "mmi": null
+      },
+      "id": "usc000ly9k"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.621,
+          -32.872,
+          95.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.01,
+        "code": "c000lptq",
+        "cdi": 4.3,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 4km SSW of Los Andes, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lptq&format=geojson",
+        "sig": 358,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393540851954,
+        "felt": 75,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lptq",
+        "ids": ",usc000lptq,",
+        "tsunami": null,
+        "place": "4km SSW of Los Andes, Chile",
+        "time": 1387677209000,
+        "mmi": null
+      },
+      "id": "usc000lptq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634,
+          -36.292,
+          25.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.23,
+        "code": "c000lxk9",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 66km NW of Talcahuano, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lxk9&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393537046000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lxk9",
+        "ids": ",usc000lxk9,",
+        "tsunami": null,
+        "place": "66km NW of Talcahuano, Chile",
+        "time": 1387669766000,
+        "mmi": null
+      },
+      "id": "usc000lxk9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.991,
+          -30.143,
+          57.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 2.87,
+        "code": "c000lnwm",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 65km WSW of Coquimbo, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lnwm&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393539846478,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lnwm",
+        "ids": ",usc000lnwm,",
+        "tsunami": null,
+        "place": "65km WSW of Coquimbo, Chile",
+        "time": 1387410709000,
+        "mmi": null
+      },
+      "id": "usc000lnwm"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.592,
+          -35.764,
+          30.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.73,
+        "code": "c000lmn9",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.4 - 110km NNW of Tome, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lmn9&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393537041000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lmn9",
+        "ids": ",usc000lmn9,",
+        "tsunami": null,
+        "place": "110km NNW of Tome, Chile",
+        "time": 1387333055000,
+        "mmi": null
+      },
+      "id": "usc000lmn9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39,
+          -30.771,
+          35.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.98,
+        "code": "c000lkzn",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.7 - 26km SW of Ovalle, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lkzn&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393030829816,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.7,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lkzn",
+        "ids": ",usc000lkzn,",
+        "tsunami": null,
+        "place": "26km SW of Ovalle, Chile",
+        "time": 1387094461000,
+        "mmi": null
+      },
+      "id": "usc000lkzn"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15,
+          -36.88,
+          29.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.16,
+        "code": "c000lit7",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.2 - 10km WSW of Concepcion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lit7&format=geojson",
+        "sig": 273,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393027688607,
+        "felt": 4,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lit7",
+        "ids": ",usc000lit7,",
+        "tsunami": null,
+        "place": "10km WSW of Concepcion, Chile",
+        "time": 1386806113000,
+        "mmi": null
+      },
+      "id": "usc000lit7"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2994,
+          -31.3939,
+          113
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.36,
+        "code": "c000lh59",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.3 - 12km SE of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lh59&format=geojson",
+        "sig": 434,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393031558772,
+        "felt": 6,
+        "alert": null,
+        "dmin": 0.931,
+        "mag": 5.3,
+        "gap": 31,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lh59",
+        "ids": ",usc000lh59,",
+        "tsunami": null,
+        "place": "12km SE of Calingasta, Argentina",
+        "time": 1386636687900,
+        "mmi": null
+      },
+      "id": "usc000lh59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6606,
+          -33.8971,
+          8.96
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.36,
+        "code": "c000li6y",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.3 - 101km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000li6y&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392434758738,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.263,
+        "mag": 4.3,
+        "gap": 146,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000li6y",
+        "ids": ",usc000li6y,",
+        "tsunami": null,
+        "place": "101km WSW of San Antonio, Chile",
+        "time": 1386529011080,
+        "mmi": null
+      },
+      "id": "usc000li6y"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3575,
+          -33.8765,
+          33.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.58,
+        "code": "b000ldl4",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 75km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ldl4&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392436090898,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.184,
+        "mag": 4.5,
+        "gap": 102,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ldl4",
+        "ids": ",usb000ldl4,",
+        "tsunami": null,
+        "place": "75km WSW of San Antonio, Chile",
+        "time": 1386463931110,
+        "mmi": null
+      },
+      "id": "usb000ldl4"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.554,
+          -33.918,
+          44.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.86,
+        "code": "b000ldbi",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 5.0 - 93km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ldbi&format=geojson",
+        "sig": 385,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392437790410,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 5,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ldbi",
+        "ids": ",usb000ldbi,",
+        "tsunami": null,
+        "place": "93km WSW of San Antonio, Chile",
+        "time": 1386408229000,
+        "mmi": null
+      },
+      "id": "usb000ldbi"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3335,
+          -33.9259,
+          16.66
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.66,
+        "code": "b000ldb0",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.8 - 75km WSW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ldb0&format=geojson",
+        "sig": 354,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392437282185,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.131,
+        "mag": 4.8,
+        "gap": 114,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ldb0",
+        "ids": ",usb000ldb0,",
+        "tsunami": null,
+        "place": "75km WSW of San Antonio, Chile",
+        "time": 1386406770980,
+        "mmi": null
+      },
+      "id": "usb000ldb0"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.982,
+          -30.515,
+          2.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.16,
+        "code": "c000lhfq",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 75km W of Ovalle, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lhfq&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392436806700,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lhfq",
+        "ids": ",usc000lhfq,",
+        "tsunami": null,
+        "place": "75km W of Ovalle, Chile",
+        "time": 1386363642000,
+        "mmi": null
+      },
+      "id": "usc000lhfq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.959,
+          -31.6437,
+          108.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.77,
+        "code": "b000lcj6",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.7 - 23km WSW of Zonda, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lcj6&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392436975715,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.616,
+        "mag": 4.7,
+        "gap": 80,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lcj6",
+        "ids": ",usb000lcj6,",
+        "tsunami": null,
+        "place": "23km WSW of Zonda, Argentina",
+        "time": 1386323407820,
+        "mmi": null
+      },
+      "id": "usb000lcj6"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0121,
+          -35.2673,
+          93.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.94,
+        "code": "b000lch3",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 29km SE of Molina, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lch3&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392435661718,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.795,
+        "mag": 4.4,
+        "gap": 81,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lch3",
+        "ids": ",usb000lch3,",
+        "tsunami": null,
+        "place": "29km SE of Molina, Chile",
+        "time": 1386312895770,
+        "mmi": null
+      },
+      "id": "usb000lch3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.886,
+          -32.224,
+          34.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.27,
+        "code": "b000lcf7",
+        "cdi": 4.7,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 66km WNW of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lcf7&format=geojson",
+        "sig": 327,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392431000276,
+        "felt": 3,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lcf7",
+        "ids": ",usb000lcf7,",
+        "tsunami": null,
+        "place": "66km WNW of La Ligua, Chile",
+        "time": 1386299963000,
+        "mmi": null
+      },
+      "id": "usb000lcf7"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.637,
+          -36.5733,
+          135.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.73,
+        "code": "b000le51",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.2 - 47km NNE of Las Ovejas, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000le51&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392430184263,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.881,
+        "mag": 4.2,
+        "gap": 134,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000le51",
+        "ids": ",usb000le51,",
+        "tsunami": null,
+        "place": "47km NNE of Las Ovejas, Argentina",
+        "time": 1386285327890,
+        "mmi": null
+      },
+      "id": "usb000le51"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1738,
+          -31.4819,
+          10.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.96,
+        "code": "b000lbrf",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 17km ENE of San Martin, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lbrf&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392167321000,
+        "felt": 1,
+        "alert": null,
+        "dmin": 2.608,
+        "mag": 4.4,
+        "gap": 148,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lbrf",
+        "ids": ",usb000lbrf,",
+        "tsunami": null,
+        "place": "17km ENE of San Martin, Argentina",
+        "time": 1385960935760,
+        "mmi": null
+      },
+      "id": "usb000lbrf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2359,
+          -34.1128,
+          16.91
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.97,
+        "code": "b000lb5b",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 154km NNW of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lb5b&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392167317000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.4,
+        "mag": 4.6,
+        "gap": 152,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lb5b",
+        "ids": ",usb000lb5b,",
+        "tsunami": null,
+        "place": "154km NNW of Constitucion, Chile",
+        "time": 1385733874150,
+        "mmi": null
+      },
+      "id": "usb000lb5b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.192,
+          -33.374,
+          41.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.72,
+        "code": "b000lb4z",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.3 - 58km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lb4z&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392167317000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lb4z",
+        "ids": ",usb000lb4z,",
+        "tsunami": null,
+        "place": "58km WNW of San Antonio, Chile",
+        "time": 1385705149000,
+        "mmi": null
+      },
+      "id": "usb000lb4z"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.316,
+          -33.406,
+          40.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.71,
+        "code": "b000lb61",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 67km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lb61&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392173349684,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lb61",
+        "ids": ",usb000lb61,",
+        "tsunami": null,
+        "place": "67km WNW of San Antonio, Chile",
+        "time": 1385703704000,
+        "mmi": null
+      },
+      "id": "usb000lb61"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4978,
+          -33.3056,
+          34.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.41,
+        "code": "b000l8ev",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 86km WSW of Valparaiso, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l8ev&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392174030337,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.286,
+        "mag": 4.2,
+        "gap": 194,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l8ev",
+        "ids": ",usb000l8ev,",
+        "tsunami": null,
+        "place": "86km WSW of Valparaiso, Chile",
+        "time": 1385703492730,
+        "mmi": null
+      },
+      "id": "usb000l8ev"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2775,
+          -33.3238,
+          33.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.19,
+        "code": "b000lb60",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 67km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lb60&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392173328086,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.114,
+        "mag": 4,
+        "gap": 190,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lb60",
+        "ids": ",usb000lb60,",
+        "tsunami": null,
+        "place": "67km WNW of San Antonio, Chile",
+        "time": 1385703291220,
+        "mmi": null
+      },
+      "id": "usb000lb60"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2664,
+          -33.3774,
+          8.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.88,
+        "code": "b000l7vx",
+        "cdi": 3.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.9 - 64km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l7vx&format=geojson",
+        "sig": 372,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392181933854,
+        "felt": 8,
+        "alert": null,
+        "dmin": 1.122,
+        "mag": 4.9,
+        "gap": 114,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l7vx",
+        "ids": ",usb000l7vx,",
+        "tsunami": null,
+        "place": "64km WNW of San Antonio, Chile",
+        "time": 1385702489350,
+        "mmi": null
+      },
+      "id": "usb000l7vx"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2929,
+          -33.4252,
+          34.97
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.47,
+        "code": "b000l7vw",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.4 - 65km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l7vw&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392167316000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.16,
+        "mag": 4.4,
+        "gap": 157,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l7vw",
+        "ids": ",usb000l7vw,",
+        "tsunami": null,
+        "place": "65km WNW of San Antonio, Chile",
+        "time": 1385702391980,
+        "mmi": null
+      },
+      "id": "usb000l7vw"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7407,
+          -31.6294,
+          107.72
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.81,
+        "code": "b000l457",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 45km SW of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l457&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392088448762,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.282,
+        "mag": 4.4,
+        "gap": 105,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l457",
+        "ids": ",usb000l457,",
+        "tsunami": null,
+        "place": "45km SW of Calingasta, Argentina",
+        "time": 1385103540980,
+        "mmi": null
+      },
+      "id": "usb000l457"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.893,
+          -31.485,
+          26.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.43,
+        "code": "b000l78q",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.3 - 70km WNW of Illapel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l78q&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1392092423803,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l78q",
+        "ids": ",usb000l78q,",
+        "tsunami": null,
+        "place": "70km WNW of Illapel, Chile",
+        "time": 1385022534000,
+        "mmi": null
+      },
+      "id": "usb000l78q"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4115,
+          -30.9232,
+          179.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.96,
+        "code": "b000l00c",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 31km S of Serrezuela, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l00c&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1391210943602,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.513,
+        "mag": 4.4,
+        "gap": 91,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l00c",
+        "ids": ",usb000l00c,",
+        "tsunami": null,
+        "place": "31km S of Serrezuela, Argentina",
+        "time": 1384624788970,
+        "mmi": null
+      },
+      "id": "usb000l00c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4793,
+          -32.6627,
+          22.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.81,
+        "code": "b000kyrl",
+        "cdi": 4.6,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.9 - 103km ENE of San Martin, Argentina",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kyrl&format=geojson",
+        "sig": 383,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1391206666677,
+        "felt": 29,
+        "alert": "green",
+        "dmin": 1.235,
+        "mag": 4.9,
+        "gap": 24,
+        "types": ",cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kyrl",
+        "ids": ",usb000kyrl,gcmt20131115061912,",
+        "tsunami": null,
+        "place": "103km ENE of San Martin, Argentina",
+        "time": 1384496352780,
+        "mmi": 4.32
+      },
+      "id": "usb000kyrl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.436,
+          -37.1784,
+          10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.91,
+        "code": "b000l2ss",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 15km SE of Yumbel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000l2ss&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1391205129924,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.202,
+        "mag": 4.1,
+        "gap": 169,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000l2ss",
+        "ids": ",usb000l2ss,",
+        "tsunami": null,
+        "place": "15km SE of Yumbel, Chile",
+        "time": 1384413338320,
+        "mmi": null
+      },
+      "id": "usb000l2ss"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19,
+          -36.7,
+          25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.89,
+        "code": "b000kxka",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 50km NW of Las Ovejas, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kxka&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1391205023870,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kxka",
+        "ids": ",usb000kxka,",
+        "tsunami": null,
+        "place": "50km NW of Las Ovejas, Argentina",
+        "time": 1384402857000,
+        "mmi": null
+      },
+      "id": "usb000kxka"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.083,
+          -34.391,
+          14.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.2,
+        "code": "b000kxpb",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 71km WNW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kxpb&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389925221315,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.63,
+        "mag": 4.3,
+        "gap": 116,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kxpb",
+        "ids": ",usb000kxpb,",
+        "tsunami": null,
+        "place": "71km WNW of Santa Cruz, Chile",
+        "time": 1384083611880,
+        "mmi": null
+      },
+      "id": "usb000kxpb"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.305,
+          -33.4359,
+          10.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.29,
+        "code": "b000kz2v",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 65km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kz2v&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389924034515,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.174,
+        "mag": 4.1,
+        "gap": 205,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kz2v",
+        "ids": ",usb000kz2v,",
+        "tsunami": null,
+        "place": "65km WNW of San Antonio, Chile",
+        "time": 1384049153940,
+        "mmi": null
+      },
+      "id": "usb000kz2v"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0251,
+          -33.5452,
+          34.82
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.81,
+        "code": "b000kvdz",
+        "cdi": 4.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 37km W of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kvdz&format=geojson",
+        "sig": 330,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389926519356,
+        "felt": 9,
+        "alert": null,
+        "dmin": 1.018,
+        "mag": 4.6,
+        "gap": 116,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kvdz",
+        "ids": ",usb000kvdz,",
+        "tsunami": null,
+        "place": "37km W of San Antonio, Chile",
+        "time": 1384048918850,
+        "mmi": null
+      },
+      "id": "usb000kvdz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4235,
+          -31.649,
+          115.31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.13,
+        "code": "b000ky8m",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 35km S of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ky8m&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389925597349,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.012,
+        "mag": 4.4,
+        "gap": 96,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ky8m",
+        "ids": ",usb000ky8m,",
+        "tsunami": null,
+        "place": "35km S of Calingasta, Argentina",
+        "time": 1383940278060,
+        "mmi": null
+      },
+      "id": "usb000ky8m"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.167,
+          -37.551,
+          40.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.44,
+        "code": "b000ky88",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 46km W of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ky88&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389924561145,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ky88",
+        "ids": ",usb000ky88,",
+        "tsunami": null,
+        "place": "46km W of Lebu, Chile",
+        "time": 1383903841000,
+        "mmi": null
+      },
+      "id": "usb000ky88"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.327,
+          -37.256,
+          21.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.93,
+        "code": "b000ku38",
+        "cdi": 4.3,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 5.0 - 72km WNW of Lebu, Chile",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ku38&format=geojson",
+        "sig": 386,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389927427833,
+        "felt": 4,
+        "alert": null,
+        "dmin": null,
+        "mag": 5,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ku38",
+        "ids": ",usb000ku38,",
+        "tsunami": null,
+        "place": "72km WNW of Lebu, Chile",
+        "time": 1383843666000,
+        "mmi": null
+      },
+      "id": "usb000ku38"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8358,
+          -38.6897,
+          33.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.27,
+        "code": "b000ku0n",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 58km W of Carahue, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ku0n&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389920128475,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.043,
+        "mag": 4.5,
+        "gap": 154,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ku0n",
+        "ids": ",usb000ku0n,",
+        "tsunami": null,
+        "place": "58km W of Carahue, Chile",
+        "time": 1383828471810,
+        "mmi": null
+      },
+      "id": "usb000ku0n"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7611,
+          -35.333,
+          32.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.84,
+        "code": "b000ksxt",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.6 - 31km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ksxt&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389926647025,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.753,
+        "mag": 4.6,
+        "gap": 115,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ksxt",
+        "ids": ",usb000ksxt,",
+        "tsunami": null,
+        "place": "31km W of Constitucion, Chile",
+        "time": 1383672326040,
+        "mmi": null
+      },
+      "id": "usb000ksxt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.428,
+          -30.333,
+          50.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.05,
+        "code": "b000kyec",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 36km NW of Ovalle, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kyec&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389348220000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kyec",
+        "ids": ",usb000kyec,",
+        "tsunami": null,
+        "place": "36km NW of Ovalle, Chile",
+        "time": 1383273959000,
+        "mmi": null
+      },
+      "id": "usb000kyec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5215,
+          -30.2921,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.28,
+        "code": "b000kqnc",
+        "cdi": 5.6,
+        "sources": ",at,pt,us,gcmt,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 6.6 - 41km SSW of Coquimbo, Chile",
+        "magType": "mww",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kqnc&format=geojson",
+        "sig": 766,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389359172899,
+        "felt": 171,
+        "alert": "green",
+        "dmin": 0.636,
+        "mag": 6.6,
+        "gap": 31,
+        "types": ",cap,dyfi,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kqnc",
+        "ids": ",at00mvk2qo,pt13304001,usb000kqnc,gcmt20131031230356,",
+        "tsunami": 1,
+        "place": "41km SSW of Coquimbo, Chile",
+        "time": 1383260639720,
+        "mmi": 6.33
+      },
+      "id": "usb000kqnc"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.112,
+          -35.108,
+          47.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.08,
+        "code": "b000kqjv",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 37km NE of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kqjv&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389355915295,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kqjv",
+        "ids": ",usb000kqjv,",
+        "tsunami": null,
+        "place": "37km NE of Constitucion, Chile",
+        "time": 1383253505000,
+        "mmi": null
+      },
+      "id": "usb000kqjv"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.297,
+          -35.384,
+          25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.99,
+        "code": "c000ks24",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 80km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ks24&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389353150335,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ks24",
+        "ids": ",usc000ks24,",
+        "tsunami": null,
+        "place": "80km W of Constitucion, Chile",
+        "time": 1383173922000,
+        "mmi": null
+      },
+      "id": "usc000ks24"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.377,
+          -35.456,
+          25.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.46,
+        "code": "c000krfi",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.3 - 88km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000krfi&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389355094184,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000krfi",
+        "ids": ",usc000krfi,",
+        "tsunami": null,
+        "place": "88km W of Constitucion, Chile",
+        "time": 1383129917000,
+        "mmi": null
+      },
+      "id": "usc000krfi"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.341,
+          -35.395,
+          31.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.68,
+        "code": "b000kyiw",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 84km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kyiw&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389348217000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kyiw",
+        "ids": ",usb000kyiw,",
+        "tsunami": null,
+        "place": "84km W of Constitucion, Chile",
+        "time": 1383114083000,
+        "mmi": null
+      },
+      "id": "usb000kyiw"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.331,
+          -35.457,
+          36.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.99,
+        "code": "c000kraf",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.8 - 84km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kraf&format=geojson",
+        "sig": 354,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389358062941,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.8,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kraf",
+        "ids": ",usc000kraf,",
+        "tsunami": null,
+        "place": "84km W of Constitucion, Chile",
+        "time": 1383103985000,
+        "mmi": null
+      },
+      "id": "usc000kraf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.365,
+          -35.37,
+          15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.98,
+        "code": "c000kra7",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 86km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kra7&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389354341738,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.2,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kra7",
+        "ids": ",usc000kra7,",
+        "tsunami": null,
+        "place": "86km W of Constitucion, Chile",
+        "time": 1383103691000,
+        "mmi": null
+      },
+      "id": "usc000kra7"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.395,
+          -35.314,
+          41.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.68,
+        "code": "c000kr9k",
+        "cdi": 4.3,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 6.2 - 88km W of Constitucion, Chile",
+        "magType": "mww",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kr9k&format=geojson",
+        "sig": 601,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389359081053,
+        "felt": 23,
+        "alert": "green",
+        "dmin": null,
+        "mag": 6.2,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kr9k",
+        "ids": ",usc000kr9k,gcmt20131030025151,",
+        "tsunami": null,
+        "place": "88km W of Constitucion, Chile",
+        "time": 1383101507000,
+        "mmi": 5.18
+      },
+      "id": "usc000kr9k"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1802,
+          -35.3317,
+          22.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.69,
+        "code": "c000krzl",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 69km W of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000krzl&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389353691352,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.073,
+        "mag": 4.1,
+        "gap": 169,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000krzl",
+        "ids": ",usc000krzl,",
+        "tsunami": null,
+        "place": "69km W of Constitucion, Chile",
+        "time": 1383101308160,
+        "mmi": null
+      },
+      "id": "usc000krzl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.193,
+          -35.439,
+          39.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.26,
+        "code": "c000kr9e",
+        "cdi": 4.3,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 5.8 - 71km W of Constitucion, Chile",
+        "magType": "mww",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kr9e&format=geojson",
+        "sig": 522,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1393012825000,
+        "felt": 11,
+        "alert": "green",
+        "dmin": null,
+        "mag": 5.8,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kr9e",
+        "ids": ",usc000kr9e,gcmt20131030022912,",
+        "tsunami": null,
+        "place": "71km W of Constitucion, Chile",
+        "time": 1383100152000,
+        "mmi": 4.92
+      },
+      "id": "usc000kr9e"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.279,
+          -30.705,
+          46.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.76,
+        "code": "c000kqeu",
+        "cdi": 3.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.7 - 14km SSW of Ovalle, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kqeu&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389357899128,
+        "felt": 2,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.7,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kqeu",
+        "ids": ",usc000kqeu,",
+        "tsunami": null,
+        "place": "14km SSW of Ovalle, Chile",
+        "time": 1383018049000,
+        "mmi": null
+      },
+      "id": "usc000kqeu"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.972,
+          -34.385,
+          41.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.32,
+        "code": "c000kq5i",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 62km WNW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000kq5i&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1388709177000,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000kq5i",
+        "ids": ",usc000kq5i,",
+        "tsunami": null,
+        "place": "62km WNW of Santa Cruz, Chile",
+        "time": 1382963990000,
+        "mmi": null
+      },
+      "id": "usc000kq5i"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.855,
+          -34.533,
+          87.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.09,
+        "code": "b000lbk8",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 12km S of Rengo, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000lbk8&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1388709170000,
+        "felt": null,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000lbk8",
+        "ids": ",usb000lbk8,",
+        "tsunami": null,
+        "place": "12km S of Rengo, Chile",
+        "time": 1382475901000,
+        "mmi": null
+      },
+      "id": "usb000lbk8"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.684,
+          -34.537,
+          31.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.34,
+        "code": "b000kiyf",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 145km NW of Constitucion, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kiyf&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389333178498,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kiyf",
+        "ids": ",usb000kiyf,",
+        "tsunami": null,
+        "place": "145km NW of Constitucion, Chile",
+        "time": 1381849123000,
+        "mmi": null
+      },
+      "id": "usb000kiyf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.284,
+          -35.769,
+          110.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.08,
+        "code": "b000kaep",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 29km ENE of Linares, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kaep&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389319936149,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kaep",
+        "ids": ",usb000kaep,",
+        "tsunami": null,
+        "place": "29km ENE of Linares, Chile",
+        "time": 1381440213000,
+        "mmi": null
+      },
+      "id": "usb000kaep"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.702,
+          -32.518,
+          31.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.17,
+        "code": "b000kitc",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.5 - 44km W of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000kitc&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389319285860,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000kitc",
+        "ids": ",usb000kitc,",
+        "tsunami": null,
+        "place": "44km W of La Ligua, Chile",
+        "time": 1381324746000,
+        "mmi": null
+      },
+      "id": "usb000kitc"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.349,
+          -33.604,
+          117.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.32,
+        "code": "b000k67m",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.4 - 21km E of Puente Alto, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k67m&format=geojson",
+        "sig": 299,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389319124368,
+        "felt": 4,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k67m",
+        "ids": ",usb000k67m,",
+        "tsunami": null,
+        "place": "21km E of Puente Alto, Chile",
+        "time": 1380880034000,
+        "mmi": null
+      },
+      "id": "usb000k67m"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9123,
+          -34.501,
+          18.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1,
+        "code": "b000k3bp",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.2 - 164km WNW of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k3bp&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389306477428,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.709,
+        "mag": 4.2,
+        "gap": 172,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k3bp",
+        "ids": ",usb000k3bp,",
+        "tsunami": null,
+        "place": "164km WNW of Constitucion, Chile",
+        "time": 1380596204170,
+        "mmi": null
+      },
+      "id": "usb000k3bp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54,
+          -35.734,
+          12.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.98,
+        "code": "b000k97f",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 111km NNW of Tome, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k97f&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930514339,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k97f",
+        "ids": ",usb000k97f,",
+        "tsunami": null,
+        "place": "111km NNW of Tome, Chile",
+        "time": 1380527077000,
+        "mmi": null
+      },
+      "id": "usb000k97f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573,
+          -37.558,
+          28.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.01,
+        "code": "b000k2es",
+        "cdi": 4.1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.8 - 9km NE of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k2es&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386932519304,
+        "felt": 2,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.8,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k2es",
+        "ids": ",usb000k2es,",
+        "tsunami": null,
+        "place": "9km NE of Lebu, Chile",
+        "time": 1380502749000,
+        "mmi": null
+      },
+      "id": "usb000k2es"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.695,
+          -37.534,
+          35.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.82,
+        "code": "b000k63j",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 9km NNW of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k63j&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930534810,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k63j",
+        "ids": ",usb000k63j,",
+        "tsunami": null,
+        "place": "9km NNW of Lebu, Chile",
+        "time": 1380498453000,
+        "mmi": null
+      },
+      "id": "usb000k63j"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3938,
+          -37.4071,
+          15.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.26,
+        "code": "b000k2e3",
+        "cdi": 3.9,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.4 - 7km NNW of Curanilahue, Chile",
+        "magType": "mwb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k2e3&format=geojson",
+        "sig": 461,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389031250000,
+        "felt": 31,
+        "alert": null,
+        "dmin": 2.645,
+        "mag": 5.4,
+        "gap": 46,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k2e3",
+        "ids": ",usb000k2e3,gcmt20130929232318,",
+        "tsunami": null,
+        "place": "7km NNW of Curanilahue, Chile",
+        "time": 1380496996300,
+        "mmi": null
+      },
+      "id": "usb000k2e3"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.753,
+          -37.469,
+          49.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.74,
+        "code": "b000k2du",
+        "cdi": 3.1,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 5.4 - 18km NNW of Lebu, Chile",
+        "magType": "mwb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k2du&format=geojson",
+        "sig": 450,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1389031248000,
+        "felt": 5,
+        "alert": null,
+        "dmin": null,
+        "mag": 5.4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k2du",
+        "ids": ",usb000k2du,gcmt20130929230658,",
+        "tsunami": null,
+        "place": "18km NNW of Lebu, Chile",
+        "time": 1380496019000,
+        "mmi": null
+      },
+      "id": "usb000k2du"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.341,
+          -35.656,
+          105.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.43,
+        "code": "b000k23z",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 17km SE of San Clemente, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k23z&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386932091387,
+        "felt": 1,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k23z",
+        "ids": ",usb000k23z,",
+        "tsunami": null,
+        "place": "17km SE of San Clemente, Chile",
+        "time": 1380456557000,
+        "mmi": null
+      },
+      "id": "usb000k23z"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8395,
+          -32.8046,
+          108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.86,
+        "code": "b000k62l",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 71km E of Los Andes, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k62l&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930762061,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.779,
+        "mag": 4.1,
+        "gap": 83,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k62l",
+        "ids": ",usb000k62l,",
+        "tsunami": null,
+        "place": "71km E of Los Andes, Chile",
+        "time": 1380388290100,
+        "mmi": null
+      },
+      "id": "usb000k62l"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.667,
+          -34.96,
+          52.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.69,
+        "code": "b000k62g",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 39km W of Curico, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k62g&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930782026,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k62g",
+        "ids": ",usb000k62g,",
+        "tsunami": null,
+        "place": "39km W of Curico, Chile",
+        "time": 1380383308000,
+        "mmi": null
+      },
+      "id": "usb000k62g"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.633,
+          -32.285,
+          130
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.49,
+        "code": "b000k1f1",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.1 - 66km S of Pocito, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000k1f1&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930904791,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000k1f1",
+        "ids": ",usb000k1f1,",
+        "tsunami": null,
+        "place": "66km S of Pocito, Argentina",
+        "time": 1380339391000,
+        "mmi": null
+      },
+      "id": "usb000k1f1"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1768,
+          -32.9023,
+          92.74
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.54,
+        "code": "b000ku2d",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 33km NNE of La Punta, Argentina",
+        "magType": "md",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ku2d&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386930658495,
+        "felt": 0,
+        "alert": null,
+        "dmin": 3.786,
+        "mag": 4,
+        "gap": 96,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ku2d",
+        "ids": ",usb000ku2d,",
+        "tsunami": null,
+        "place": "33km NNE of La Punta, Argentina",
+        "time": 1380203515560,
+        "mmi": null
+      },
+      "id": "usb000ku2d"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.572,
+          -32.63,
+          40.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.71,
+        "code": "b000jyl8",
+        "cdi": 4.3,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.8 - 37km WNW of Hacienda La Calera, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jyl8&format=geojson",
+        "sig": 360,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386927991355,
+        "felt": 13,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.8,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jyl8",
+        "ids": ",usb000jyl8,",
+        "tsunami": null,
+        "place": "37km WNW of Hacienda La Calera, Chile",
+        "time": 1380033404000,
+        "mmi": null
+      },
+      "id": "usb000jyl8"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.064,
+          -33.4918,
+          27.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.73,
+        "code": "b000jxy0",
+        "cdi": 3.6,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.9 - 42km WNW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jxy0&format=geojson",
+        "sig": 371,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386630724532,
+        "felt": 4,
+        "alert": null,
+        "dmin": 1.018,
+        "mag": 4.9,
+        "gap": 118,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jxy0",
+        "ids": ",usb000jxy0,",
+        "tsunami": null,
+        "place": "42km WNW of San Antonio, Chile",
+        "time": 1379941349460,
+        "mmi": null
+      },
+      "id": "usb000jxy0"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5038,
+          -31.3537,
+          178.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.04,
+        "code": "b000jw8w",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 9km WSW of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jw8w&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386627849050,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.621,
+        "mag": 4,
+        "gap": 134,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jw8w",
+        "ids": ",usb000jw8w,",
+        "tsunami": null,
+        "place": "9km WSW of Calingasta, Argentina",
+        "time": 1379611646210,
+        "mmi": null
+      },
+      "id": "usb000jw8w"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5935,
+          -33.199,
+          102.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.02,
+        "code": "c000jusa",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 79km WSW of Mendoza, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000jusa&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384885101917,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.908,
+        "mag": 4,
+        "gap": 60,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000jusa",
+        "ids": ",usc000jusa,",
+        "tsunami": null,
+        "place": "79km WSW of Mendoza, Argentina",
+        "time": 1379225074020,
+        "mmi": null
+      },
+      "id": "usc000jusa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6611,
+          -37.7263,
+          18.74
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.72,
+        "code": "c000juad",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.6 - 12km S of Lebu, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000juad&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384886493228,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.525,
+        "mag": 4.6,
+        "gap": 153,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000juad",
+        "ids": ",usc000juad,",
+        "tsunami": null,
+        "place": "12km S of Lebu, Chile",
+        "time": 1379138922860,
+        "mmi": null
+      },
+      "id": "usc000juad"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.208,
+          -32.307,
+          69.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.19,
+        "code": "c000jtkg",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 16km N of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000jtkg&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384885678531,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000jtkg",
+        "ids": ",usc000jtkg,",
+        "tsunami": null,
+        "place": "16km N of La Ligua, Chile",
+        "time": 1379069768000,
+        "mmi": null
+      },
+      "id": "usc000jtkg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.942,
+          -34.601,
+          45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.2,
+        "code": "c000jwxi",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.0 - 94km NNW of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000jwxi&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384882910797,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000jwxi",
+        "ids": ",usc000jwxi,",
+        "tsunami": null,
+        "place": "94km NNW of Constitucion, Chile",
+        "time": 1378807072000,
+        "mmi": null
+      },
+      "id": "usc000jwxi"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.941,
+          -34.685,
+          31.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.25,
+        "code": "b000jmxe",
+        "cdi": 2.2,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.7 - 86km NNW of Constitucion, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jmxe&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384882709583,
+        "felt": 1,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.7,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jmxe",
+        "ids": ",usb000jmxe,",
+        "tsunami": null,
+        "place": "86km NNW of Constitucion, Chile",
+        "time": 1378776484000,
+        "mmi": null
+      },
+      "id": "usb000jmxe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.475,
+          -37.181,
+          49.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.42,
+        "code": "b000jmx8",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.0 - 13km SE of Yumbel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jmx8&format=geojson",
+        "sig": 247,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1384882644354,
+        "felt": 1,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jmx8",
+        "ids": ",usb000jmx8,",
+        "tsunami": null,
+        "place": "13km SE of Yumbel, Chile",
+        "time": 1378774732000,
+        "mmi": null
+      },
+      "id": "usb000jmx8"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.386,
+          -31.546,
+          110
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.91,
+        "code": "b000je7b",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.7 - 23km S of Calingasta, Argentina",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000je7b&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1383706659981,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.7,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000je7b",
+        "ids": ",usb000je7b,",
+        "tsunami": null,
+        "place": "23km S of Calingasta, Argentina",
+        "time": 1377916336000,
+        "mmi": null
+      },
+      "id": "usb000je7b"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.684,
+          -34.475,
+          111.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.88,
+        "code": "b000jdpj",
+        "cdi": 4.6,
+        "sources": ",us,gcmt,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.9 - 17km ESE of Rengo, Chile",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jdpj&format=geojson",
+        "sig": 393,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1386273639000,
+        "felt": 52,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.9,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jdpj",
+        "ids": ",usb000jdpj,gcmt20130830104811,",
+        "tsunami": null,
+        "place": "17km ESE of Rengo, Chile",
+        "time": 1377859693000,
+        "mmi": null
+      },
+      "id": "usb000jdpj"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.117,
+          -34.707,
+          11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.97,
+        "code": "b000jxyw",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.3 - 69km W of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jxyw&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1382154286636,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jxyw",
+        "ids": ",usb000jxyw,",
+        "tsunami": null,
+        "place": "69km W of Santa Cruz, Chile",
+        "time": 1376940115000,
+        "mmi": null
+      },
+      "id": "usb000jxyw"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.929,
+          -33.472,
+          77.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.94,
+        "code": "b000j68x",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.1 - 16km N of Penaflor, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000j68x&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1382153818342,
+        "felt": 1,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000j68x",
+        "ids": ",usb000j68x,",
+        "tsunami": null,
+        "place": "16km N of Penaflor, Chile",
+        "time": 1376905595000,
+        "mmi": null
+      },
+      "id": "usb000j68x"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.121,
+          -32.997,
+          44.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1,
+        "code": "b000jaas",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.1 - 46km W of Valparaiso, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000jaas&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1382153752844,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.1,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000jaas",
+        "ids": ",usb000jaas,",
+        "tsunami": null,
+        "place": "46km W of Valparaiso, Chile",
+        "time": 1376708984000,
+        "mmi": null
+      },
+      "id": "usb000jaas"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6721,
+          -36.8981,
+          28.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.47,
+        "code": "b000j3sq",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 49km WNW of Coronel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000j3sq&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1382152405889,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.355,
+        "mag": 4.5,
+        "gap": 146,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000j3sq",
+        "ids": ",usb000j3sq,",
+        "tsunami": null,
+        "place": "49km WNW of Coronel, Chile",
+        "time": 1376565230110,
+        "mmi": null
+      },
+      "id": "usb000j3sq"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.642,
+          -32.514,
+          48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1,
+        "code": "b000j3sa",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.6 - 39km W of La Ligua, Chile",
+        "magType": "mwr",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000j3sa&format=geojson",
+        "sig": 334,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1382152610076,
+        "felt": 25,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.6,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000j3sa",
+        "ids": ",usb000j3sa,",
+        "tsunami": null,
+        "place": "39km W of La Ligua, Chile",
+        "time": 1376562406000,
+        "mmi": null
+      },
+      "id": "usb000j3sa"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.941,
+          -38.427,
+          27.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.44,
+        "code": "b000ivet",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.3 - 73km WNW of Carahue, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ivet&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1380134657641,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ivet",
+        "ids": ",usb000ivet,",
+        "tsunami": null,
+        "place": "73km WNW of Carahue, Chile",
+        "time": 1375685165000,
+        "mmi": null
+      },
+      "id": "usb000ivet"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.797,
+          -32.504,
+          34.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.74,
+        "code": "b000j2ua",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.7 - 53km W of La Ligua, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000j2ua&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1380135733612,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.7,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000j2ua",
+        "ids": ",usb000j2ua,",
+        "tsunami": null,
+        "place": "53km W of La Ligua, Chile",
+        "time": 1375630059000,
+        "mmi": null
+      },
+      "id": "usb000j2ua"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.526,
+          -30.202,
+          15.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.76,
+        "code": "b000iv0c",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -180,
+        "title": "M 4.3 - 75km W of San Jose de Jachal, Argentina",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000iv0c&format=geojson",
+        "sig": 284,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1380134735333,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.3,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000iv0c",
+        "ids": ",usb000iv0c,",
+        "tsunami": null,
+        "place": "75km W of San Jose de Jachal, Argentina",
+        "time": 1375457583000,
+        "mmi": null
+      },
+      "id": "usb000iv0c"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.188,
+          -34.434,
+          22.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.33,
+        "code": "b000iv01",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.0 - 78km WNW of Santa Cruz, Chile",
+        "magType": "ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000iv01&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1380134031911,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000iv01",
+        "ids": ",usb000iv01,",
+        "tsunami": null,
+        "place": "78km WNW of Santa Cruz, Chile",
+        "time": 1375451836000,
+        "mmi": null
+      },
+      "id": "usb000iv01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.733,
+          -36.129,
+          44.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.92,
+        "code": "c000ir2l",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.5 - 85km NW of Talcahuano, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ir2l&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1379975090044,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.5,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ir2l",
+        "ids": ",usc000ir2l,",
+        "tsunami": null,
+        "place": "85km NW of Talcahuano, Chile",
+        "time": 1375001330000,
+        "mmi": null
+      },
+      "id": "usc000ir2l"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.93,
+          -34.77,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.75,
+        "code": "c000iqib",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.4 - 53km WSW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000iqib&format=geojson",
+        "sig": 299,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1379974624625,
+        "felt": 3,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000iqib",
+        "ids": ",usc000iqib,",
+        "tsunami": null,
+        "place": "53km WSW of Santa Cruz, Chile",
+        "time": 1374921241000,
+        "mmi": null
+      },
+      "id": "usc000iqib"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.94,
+          -34.752,
+          43.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.35,
+        "code": "c000ir15",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -240,
+        "title": "M 4.4 - 54km WSW of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000ir15&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1379974584199,
+        "felt": 0,
+        "alert": null,
+        "dmin": null,
+        "mag": 4.4,
+        "gap": null,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000ir15",
+        "ids": ",usc000ir15,",
+        "tsunami": null,
+        "place": "54km WSW of Santa Cruz, Chile",
+        "time": 1374832220000,
+        "mmi": null
+      },
+      "id": "usc000ir15"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0866,
+          -31.5137,
+          6.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.69,
+        "code": "b000it01",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": null,
+        "tz": -300,
+        "title": "M 4.4 - 88km W of Illapel, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000it01&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "reviewed",
+        "updated": 1379974768835,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.735,
+        "mag": 4.4,
+        "gap": 147,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000it01",
+        "ids": ",usb000it01,",
+        "tsunami": null,
+        "place": "88km W of Illapel, Chile",
+        "time": 1374773192880,
+        "mmi": null
+      },
+      "id": "usb000it01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586,
+          -36.527,
+          11.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.25,
+        "code": "b000ijec",
+        "cdi": 3.8,
+        "sources": ",us,",
+        "nst": 0,
+        "tz": -300,
+        "title": "M 4.7 - 46km WNW of Talcahuano, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ijec&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1378388268030,
+        "felt": 1,
+        "alert": null,
+        "dmin": 0,
+        "mag": 4.7,
+        "gap": 0,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ijec",
+        "ids": ",usb000ijec,",
+        "tsunami": null,
+        "place": "46km WNW of Talcahuano, Chile",
+        "time": 1374451363000,
+        "mmi": null
+      },
+      "id": "usb000ijec"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1193,
+          -34.1653,
+          14.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.59,
+        "code": "b000i8vp",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": 32,
+        "tz": -240,
+        "title": "M 4.6 - 78km SW of San Antonio, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000i8vp&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1373319962048,
+        "felt": null,
+        "alert": null,
+        "dmin": 0.86,
+        "mag": 4.6,
+        "gap": 147,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000i8vp",
+        "ids": ",usb000i8vp,",
+        "tsunami": null,
+        "place": "78km SW of San Antonio, Chile",
+        "time": 1373291012920,
+        "mmi": null
+      },
+      "id": "usb000i8vp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.926,
+          -39.237,
+          16.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.04,
+        "code": "b000i3dv",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": 24,
+        "tz": -300,
+        "title": "M 4.5 - 147km WNW of Corral, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000i3dv&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1373195798543,
+        "felt": null,
+        "alert": null,
+        "dmin": 2.69674248,
+        "mag": 4.5,
+        "gap": 162,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000i3dv",
+        "ids": ",usb000i3dv,",
+        "tsunami": null,
+        "place": "147km WNW of Corral, Chile",
+        "time": 1372524651500,
+        "mmi": null
+      },
+      "id": "usb000i3dv"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.137,
+          -31.931,
+          103.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.69,
+        "code": "b000i39u",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 60,
+        "tz": -180,
+        "title": "M 4.5 - 56km SW of Zonda, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000i39u&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1373196404570,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.77776595,
+        "mag": 4.5,
+        "gap": 93.6,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000i39u",
+        "ids": ",usb000i39u,",
+        "tsunami": null,
+        "place": "56km SW of Zonda, Argentina",
+        "time": 1372494095900,
+        "mmi": null
+      },
+      "id": "usb000i39u"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.014,
+          -32.673,
+          104.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.84,
+        "code": "c000hvkg",
+        "cdi": 3.4,
+        "sources": ",us,gcmt,",
+        "nst": 101,
+        "tz": -180,
+        "title": "M 5.3 - 57km ENE of Los Andes, Chile",
+        "magType": "Mt",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000hvkg&format=geojson",
+        "sig": 448,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1380614315000,
+        "felt": 47,
+        "alert": "green",
+        "dmin": 0.72943201,
+        "mag": 5.3,
+        "gap": 21.6,
+        "types": ",cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000hvkg",
+        "ids": ",usc000hvkg,gcmt20130619212911,",
+        "tsunami": null,
+        "place": "57km ENE of Los Andes, Chile",
+        "time": 1371677351500,
+        "mmi": 3.98
+      },
+      "id": "usc000hvkg"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.771,
+          -30.719,
+          42.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "2013rpc9",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": 22,
+        "tz": -240,
+        "title": "M 4.1 - 56km WSW of Ovalle, Chile",
+        "magType": "Ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=us2013rpc9&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1373218240480,
+        "felt": null,
+        "alert": null,
+        "dmin": 0.9989266,
+        "mag": 4.1,
+        "gap": 100.8,
+        "types": ",general-link,geoserve,nearby-cities,origin,p-wave-travel-times,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/us2013rpc9",
+        "ids": ",us2013rpc9,",
+        "tsunami": null,
+        "place": "56km WSW of Ovalle, Chile",
+        "time": 1371595399000,
+        "mmi": null
+      },
+      "id": "us2013rpc9"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.575,
+          -32.264,
+          79.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.32,
+        "code": "c000hpfi",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": 32,
+        "tz": -240,
+        "title": "M 4.8 - 55km NNE of San Felipe, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000hpfi&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1371856193350,
+        "felt": 3,
+        "alert": null,
+        "dmin": 0.7995006,
+        "mag": 4.8,
+        "gap": 122.4,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000hpfi",
+        "ids": ",usc000hpfi,",
+        "tsunami": null,
+        "place": "55km NNE of San Felipe, Chile",
+        "time": 1371120097200,
+        "mmi": null
+      },
+      "id": "usc000hpfi"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.582,
+          -35.562,
+          114.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "2013rgbd",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 34,
+        "tz": -240,
+        "title": "M 4.4 - 9km W of San Clemente, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=us2013rgbd&format=geojson",
+        "sig": 298,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1371573784190,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.61893923,
+        "mag": 4.4,
+        "gap": 100.8,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/us2013rgbd",
+        "ids": ",us2013rgbd,",
+        "tsunami": null,
+        "place": "9km W of San Clemente, Chile",
+        "time": 1370831386000,
+        "mmi": null
+      },
+      "id": "us2013rgbd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.506,
+          -32.524,
+          29.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "c000hhyr",
+        "cdi": 2.6,
+        "sources": ",us,",
+        "nst": 44,
+        "tz": -240,
+        "title": "M 4.6 - 27km WSW of La Ligua, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000hhyr&format=geojson",
+        "sig": 327,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1372331828467,
+        "felt": 5,
+        "alert": null,
+        "dmin": 0.60905776,
+        "mag": 4.6,
+        "gap": 100.8,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000hhyr",
+        "ids": ",usc000hhyr,",
+        "tsunami": null,
+        "place": "27km WSW of La Ligua, Chile",
+        "time": 1370586495000,
+        "mmi": null
+      },
+      "id": "usc000hhyr"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.933,
+          -34.094,
+          37.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.8,
+        "code": "c000hhpm",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": 26,
+        "tz": -300,
+        "title": "M 4.8 - 133km WSW of San Antonio, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000hhpm&format=geojson",
+        "sig": 354,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1372074441055,
+        "felt": null,
+        "alert": null,
+        "dmin": 1.22889531,
+        "mag": 4.8,
+        "gap": 147.6,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000hhpm",
+        "ids": ",usc000hhpm,",
+        "tsunami": null,
+        "place": "133km WSW of San Antonio, Chile",
+        "time": 1370553634700,
+        "mmi": null
+      },
+      "id": "usc000hhpm"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.376,
+          -32.558,
+          27.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "c000hgzl",
+        "cdi": 3.3,
+        "sources": ",us,",
+        "nst": 47,
+        "tz": -240,
+        "title": "M 4.5 - 17km SW of La Ligua, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000hgzl&format=geojson",
+        "sig": 314,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1373023052140,
+        "felt": 6,
+        "alert": null,
+        "dmin": 0.51922623,
+        "mag": 4.5,
+        "gap": 100.8,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000hgzl",
+        "ids": ",usc000hgzl,",
+        "tsunami": null,
+        "place": "17km SW of La Ligua, Chile",
+        "time": 1370500802000,
+        "mmi": null
+      },
+      "id": "usc000hgzl"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.862,
+          -34.719,
+          37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.29,
+        "code": "b000hcrt",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 29,
+        "tz": -240,
+        "title": "M 4.8 - 46km WSW of Santa Cruz, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000hcrt&format=geojson",
+        "sig": 354,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1371036663192,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.3000373,
+        "mag": 4.8,
+        "gap": 136.8,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000hcrt",
+        "ids": ",usb000hcrt,",
+        "tsunami": null,
+        "place": "46km WSW of Santa Cruz, Chile",
+        "time": 1370322096200,
+        "mmi": null
+      },
+      "id": "usb000hcrt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.258,
+          -36.017,
+          101.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.04,
+        "code": "b000h6wz",
+        "cdi": 2.7,
+        "sources": ",us,",
+        "nst": 64,
+        "tz": -240,
+        "title": "M 4.8 - 35km ESE of Linares, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000h6wz&format=geojson",
+        "sig": 356,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370903678187,
+        "felt": 4,
+        "alert": null,
+        "dmin": 1.14894525,
+        "mag": 4.8,
+        "gap": 140.4,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000h6wz",
+        "ids": ",usb000h6wz,",
+        "tsunami": null,
+        "place": "35km ESE of Linares, Chile",
+        "time": 1369632066700,
+        "mmi": null
+      },
+      "id": "usb000h6wz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.258,
+          -30.51,
+          42.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.12,
+        "code": "b000h5iu",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": 48,
+        "tz": -180,
+        "title": "M 4.6 - 57km WSW of San Jose de Jachal, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000h5iu&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1371124415467,
+        "felt": 1,
+        "alert": null,
+        "dmin": 1.36813418,
+        "mag": 4.6,
+        "gap": 72,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000h5iu",
+        "ids": ",usb000h5iu,",
+        "tsunami": null,
+        "place": "57km WSW of San Jose de Jachal, Argentina",
+        "time": 1369421431700,
+        "mmi": null
+      },
+      "id": "usb000h5iu"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.329,
+          -32.47,
+          115.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.47,
+        "code": "b000gjhy",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": 44,
+        "tz": -180,
+        "title": "M 4.9 - 66km NW of Mendoza, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000gjhy&format=geojson",
+        "sig": 370,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902268402,
+        "felt": 2,
+        "alert": null,
+        "dmin": 1.31872684,
+        "mag": 4.9,
+        "gap": 72,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000gjhy",
+        "ids": ",usb000gjhy,",
+        "tsunami": null,
+        "place": "66km NW of Mendoza, Argentina",
+        "time": 1367391624800,
+        "mmi": null
+      },
+      "id": "usb000gjhy"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.543,
+          -33.525,
+          81.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.12,
+        "code": "b000gim5",
+        "cdi": 4.8,
+        "sources": ",us,",
+        "nst": 47,
+        "tz": -240,
+        "title": "M 5.0 - 7km SSE of Villa Presidente Frei, Nunoa, Santiago, Chile, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000gim5&format=geojson",
+        "sig": 402,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902241750,
+        "felt": 37,
+        "alert": null,
+        "dmin": 0.3997503,
+        "mag": 5,
+        "gap": 104.4,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000gim5",
+        "ids": ",usb000gim5,",
+        "tsunami": null,
+        "place": "7km SSE of Villa Presidente Frei, Nunoa, Santiago, Chile, Chile",
+        "time": 1367319427900,
+        "mmi": null
+      },
+      "id": "usb000gim5"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.998,
+          -34.912,
+          59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "2013ppb8",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 19,
+        "tz": -240,
+        "title": "M 4.2 - 60km NE of Constitucion, Chile",
+        "magType": "Ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=us2013ppb8&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902860000,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.10959446,
+        "mag": 4.2,
+        "gap": 154.8,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/us2013ppb8",
+        "ids": ",us2013ppb8,",
+        "tsunami": null,
+        "place": "60km NE of Constitucion, Chile",
+        "time": 1367245644000,
+        "mmi": null
+      },
+      "id": "us2013ppb8"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.408,
+          -31.558,
+          110
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "b000ghfk",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 18,
+        "tz": -180,
+        "title": "M 4.0 - 25km S of Calingasta, Argentina",
+        "magType": "Md",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000ghfk&format=geojson",
+        "sig": 246,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902757881,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.8280716,
+        "mag": 4,
+        "gap": 0,
+        "types": ",dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000ghfk",
+        "ids": ",usb000ghfk,",
+        "tsunami": null,
+        "place": "25km S of Calingasta, Argentina",
+        "time": 1367235858000,
+        "mmi": null
+      },
+      "id": "usb000ghfk"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.429,
+          -36.584,
+          83.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.92,
+        "code": "b000gety",
+        "cdi": 2,
+        "sources": ",us,",
+        "nst": 18,
+        "tz": -180,
+        "title": "M 4.2 - 21km NNW of Bulnes, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000gety&format=geojson",
+        "sig": 272,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902086069,
+        "felt": 1,
+        "alert": null,
+        "dmin": 1.61786583,
+        "mag": 4.2,
+        "gap": 172.8,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000gety",
+        "ids": ",usb000gety,",
+        "tsunami": null,
+        "place": "21km NNW of Bulnes, Chile",
+        "time": 1366793892200,
+        "mmi": null
+      },
+      "id": "usb000gety"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.398,
+          -36.114,
+          20.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.84,
+        "code": "2013pfcf",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 14,
+        "tz": -300,
+        "title": "M 4.6 - 68km NW of Tome, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=us2013pfcf&format=geojson",
+        "sig": 326,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370902156237,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.62774729,
+        "mag": 4.6,
+        "gap": 151.2,
+        "types": ",dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/us2013pfcf",
+        "ids": ",us2013pfcf,",
+        "tsunami": null,
+        "place": "68km NW of Tome, Chile",
+        "time": 1366466958500,
+        "mmi": null
+      },
+      "id": "us2013pfcf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.783,
+          -35.014,
+          57.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "b000gd1w",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 13,
+        "tz": -180,
+        "title": "M 4.1 - 46km WNW of Molina, Chile",
+        "magType": "Ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000gd1w&format=geojson",
+        "sig": 259,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370901898920,
+        "felt": 0,
+        "alert": null,
+        "dmin": 0.11947593,
+        "mag": 4.1,
+        "gap": 0,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000gd1w",
+        "ids": ",usb000gd1w,",
+        "tsunami": null,
+        "place": "46km WNW of Molina, Chile",
+        "time": 1366445346000,
+        "mmi": null
+      },
+      "id": "usb000gd1w"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.543,
+          -34.711,
+          43.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.89,
+        "code": "b000g7rz",
+        "cdi": 5.3,
+        "sources": ",us,",
+        "nst": 35,
+        "tz": -180,
+        "title": "M 4.8 - 18km WSW of Santa Cruz, Chile",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000g7rz&format=geojson",
+        "sig": 357,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370901560357,
+        "felt": 5,
+        "alert": null,
+        "dmin": 1.71757882,
+        "mag": 4.8,
+        "gap": 136.8,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000g7rz",
+        "ids": ",usb000g7rz,",
+        "tsunami": null,
+        "place": "18km WSW of Santa Cruz, Chile",
+        "time": 1366094393000,
+        "mmi": null
+      },
+      "id": "usb000g7rz"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.213,
+          -30.102,
+          69.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0,
+        "code": "b000g1zd",
+        "cdi": 3.4,
+        "sources": ",us,",
+        "nst": 22,
+        "tz": -180,
+        "title": "M 4.8 - 20km SE of Coquimbo, Chile",
+        "magType": "Ml",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000g1zd&format=geojson",
+        "sig": 355,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370901206189,
+        "felt": 2,
+        "alert": null,
+        "dmin": 0.36920758,
+        "mag": 4.8,
+        "gap": 0,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000g1zd",
+        "ids": ",usb000g1zd,",
+        "tsunami": null,
+        "place": "20km SE of Coquimbo, Chile",
+        "time": 1365411009000,
+        "mmi": null
+      },
+      "id": "usb000g1zd"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.938,
+          -36.426,
+          23.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1,
+        "code": "2013npcu",
+        "cdi": null,
+        "sources": ",us,",
+        "nst": 33,
+        "tz": -180,
+        "title": "M 4.2 - 43km N of Barrancas, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=us2013npcu&format=geojson",
+        "sig": 271,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370901792454,
+        "felt": null,
+        "alert": null,
+        "dmin": 3.3264615,
+        "mag": 4.2,
+        "gap": 122.4,
+        "types": ",general-link,geoserve,nearby-cities,origin,p-wave-travel-times,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/us2013npcu",
+        "ids": ",us2013npcu,",
+        "tsunami": null,
+        "place": "43km N of Barrancas, Argentina",
+        "time": 1365118072000,
+        "mmi": null
+      },
+      "id": "us2013npcu"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6819,
+          -34.6729,
+          48.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.03,
+        "code": "b000fzkf",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 24,
+        "tz": -180,
+        "title": "M 4.7 - 29km W of Santa Cruz, Chile",
+        "magType": "mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000fzkf&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370901052442,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.74,
+        "mag": 4.7,
+        "gap": 147,
+        "types": ",cap,dyfi,general-link,geoserve,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000fzkf",
+        "ids": ",usb000fzkf,",
+        "tsunami": null,
+        "place": "29km W of Santa Cruz, Chile",
+        "time": 1365075668610,
+        "mmi": null
+      },
+      "id": "usb000fzkf"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.282,
+          -31.816,
+          102.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.48,
+        "code": "b000fvvp",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 20,
+        "tz": -180,
+        "title": "M 4.5 - 18km S of Caucete, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000fvvp&format=geojson",
+        "sig": 312,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370900737037,
+        "felt": 0,
+        "alert": null,
+        "dmin": 2.41736643,
+        "mag": 4.5,
+        "gap": 79.2,
+        "types": ",cap,dyfi,eq-location-map,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000fvvp",
+        "ids": ",usb000fvvp,",
+        "tsunami": null,
+        "place": "18km S of Caucete, Argentina",
+        "time": 1364586269700,
+        "mmi": null
+      },
+      "id": "usb000fvvp"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.729,
+          -35.367,
+          9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 1.29,
+        "code": "b000fvhe",
+        "cdi": 0,
+        "sources": ",us,gcmt,",
+        "nst": 282,
+        "tz": -180,
+        "title": "M 5.4 - 28km W of Constitucion, Chile",
+        "magType": "Mw",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000fvhe&format=geojson",
+        "sig": 449,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1379966695000,
+        "felt": 0,
+        "alert": "green",
+        "dmin": 2.77669254,
+        "mag": 5.4,
+        "gap": 115.2,
+        "types": ",cap,dyfi,eq-location-map,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000fvhe",
+        "ids": ",usb000fvhe,gcmt20130329073056,",
+        "tsunami": null,
+        "place": "28km W of Constitucion, Chile",
+        "time": 1364542256900,
+        "mmi": 5.15
+      },
+      "id": "usb000fvhe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.332,
+          -30.337,
+          45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "rms": 0.89,
+        "code": "b000fujv",
+        "cdi": 1,
+        "sources": ",us,",
+        "nst": 53,
+        "tz": -180,
+        "title": "M 4.7 - 57km W of San Jose de Jachal, Argentina",
+        "magType": "Mb",
+        "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usb000fujv&format=geojson",
+        "sig": 340,
+        "net": "us",
+        "type": "earthquake",
+        "status": "REVIEWED",
+        "updated": 1370900805381,
+        "felt": 0,
+        "alert": null,
+        "dmin": 1.27830265,
+        "mag": 4.7,
+        "gap": 68.4,
+        "types": ",cap,dyfi,eq-location-map,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-text,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,",
+        "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usb000fujv",
+        "ids": ",usb000fujv,",
+        "tsunami": null,
+        "place": "57km W of San Jose de Jachal, Argentina",
+        "time": 1364480884000,
+        "mmi": null
+      },
+      "id": "usb000fujv"
+    }
+  ],
+  "bbox": [
+    -74.971,
+    -39.237,
+    2.4,
+    -65.4115,
+    -30.102,
+    179.7
+  ],
+  "metadata": {
+    "status": 200,
+    "count": 165,
+    "title": "USGS Earthquakes",
+    "url": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?minlongitude=-75&maxlatitude=-30&minmagnitude=4&maxlongitude=-65&starttime=2013-03-26T21%3A02%3A17&format=geojson&endtime=2014-03-26T21%3A02%3A17&minlatitude=-40",
+    "generated": 1395868481000,
+    "api": "1.0.13"
+  }
+}
