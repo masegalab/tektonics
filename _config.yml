@@ -1,0 +1,8 @@
+
+name: Tektonic
+markdown: rdiscount
+
+exclude:
+    - package.json
+    - node_modules
+    - bower_component

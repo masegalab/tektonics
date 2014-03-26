@@ -1,0 +1,27 @@
+{
+  "name": "tektonics",
+  "version": "0.1.0",
+  "homepage": "https://github.com/masegalab/tektonics",
+  "authors": [
+    "Masega Lab <contact@masega.co>"
+  ],
+  "main": "index.md",
+  "keywords": [
+    "d3",
+    "earthquakes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "d3": "~3.4.4",
+    "topojson": "~1.5.2",
+    "bootstrap": "~3.1.1",
+    "mapbox.js": "~1.6.2"
+  }
+}
