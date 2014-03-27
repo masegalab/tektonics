@@ -8,10 +8,18 @@
     <meta name="author" content="Masega">
 
     <title>{{ page.title }}</title>
+
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
+<script src="{{site.baseurl}}/bower_components/d3/d3.js"></script>
+<script src="{{site.baseurl}}/src/charts/barchart.js"></script>
+<script src="{{site.baseurl}}/src/charts/d3layer.js"></script>
+<script src="{{site.baseurl}}/src/charts/map.js"></script>
   </head>
 
   <body>
     {{content}}
   </body>
-  
+
 </html>

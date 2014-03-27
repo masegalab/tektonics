@@ -11,6 +11,17 @@ module.exports = function(grunt) {
                 files: ['src/less/*.less'],
                 tasks: ['less']
             }
+        },
+
+        less: {
+            main: {
+                options: {
+                    paths: ['css']
+                },
+                files: {
+                    'css/main.css': 'src/less/main.less'
+                }
+            },
         }
 
     });

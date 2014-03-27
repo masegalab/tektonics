@@ -5,13 +5,13 @@ USGS_API_URL = 'http://comcat.cr.usgs.gov/fdsnws/event/1/query'
 
 # METHOD = 'query'
 PARAMS = {
-    'starttime': '2013-03-26T21:02:17',
-    'endtime': '2014-03-26T21:02:17',
-    'minlatitude': -40,
-    'maxlatitude': -30,
-    'minlongitude': -75,
-    'maxlongitude': -65,
-    'minmagnitude': 4,
+    'starttime': '2014-01-01T21:02:17',
+    'endtime': '2014-03-28T21:02:17',
+    'minlatitude': -56,
+    'maxlatitude': -18,
+    'minlongitude': -79,
+    'maxlongitude': -60,
+    'minmagnitude': 5.5,
     'format': 'geojson'
 }
 
