@@ -1,7 +1,12 @@
 
 name: Tektonic
+safe: true
+source: .
+destination: _site
+lsi: false
 markdown: rdiscount
-
+pygments: true
+permalink: pretty
 exclude:
     - package.json
     - node_modules

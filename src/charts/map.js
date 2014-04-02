@@ -9,7 +9,9 @@ charts.map = function() {
     var me = {
         width: 100,
         height: 100,
-        margin: {top: 5, right: 5, bottom: 5, left: 5}
+        margin: {top: 0, right: 0, bottom: 0, left: 0},
+        center: [0, 0],
+        scale: 150
     };
 
     function chart(selection) {
@@ -26,19 +28,21 @@ charts.map = function() {
             var gcont = svg.select('g.map-container');
 
             var projection = d3.geo.mercator()
-                .scale(width / (2 * Math.PI))
+                .center(me.center)
+                .scale(me.scale)
                 .translate([width / 2, height / 2]);
 
             var path = d3.geo.path()
                 .projection(projection);
 
-            console.log(data);
-
-            var featurePaths = gcont.selectAll('path.feature').data(data);
+            var featurePaths = gcont.selectAll('path.feature').data([data]);
 
             featurePaths.enter().append('path').attr('class', 'feature');
 
-            featurePaths.attr('d', path);
+            featurePaths.attr('d', function(d) {
+                var p = path(d);
+                return p ? p : 'M 1,0';
+            });
 
         });
     }
